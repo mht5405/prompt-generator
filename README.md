@@ -16,6 +16,20 @@ Generate, evaluate, and optimize high-quality prompts using the Evaluator-Optimi
 
 **[View Details →](./prompt-generator/)**
 
+### 2. Liuhuahui Writing Style
+
+Write content that matches liuhuahui's authentic, conversational, and practical voice.
+
+**Features:**
+- Direct and conversational tone (like chatting with a friend)
+- Critical thinking that challenges mainstream narratives
+- Empathetic and caring approach to readers
+- Practical, action-oriented advice with "练习作业" sections
+- Uses colloquial expressions and internet slang naturally
+- Perfect for blog posts, tutorials, and opinion pieces
+
+**[View Details →](./liuhuahui-writing-style/)**
+
 ## 🚀 Installation
 
 ### Prerequisites
