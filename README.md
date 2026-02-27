@@ -18,7 +18,7 @@ Claude Code 技能集合，用于提升生产力和工作流自动化。
 
 **[查看详情 →](./prompt-generator/)**
 
-### 2. Liuhuahui Writing Style（刘华辉写作风格）
+### 2. Liuhuahui Writing Style
 
 生成符合刘华辉真实、对话式和实用风格的内容。
 
